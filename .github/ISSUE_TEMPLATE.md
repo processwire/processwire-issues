@@ -1,4 +1,4 @@
-<!-- Please answer the following questions. Issues that don’t use this template will be closed. -->
+<!-- Please answer the following questions. -->
 
 > Briefly describe the issue.
 <!-- Provide a more detailed introduction to the issue. -->
