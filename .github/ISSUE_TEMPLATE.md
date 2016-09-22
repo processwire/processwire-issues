@@ -1,7 +1,7 @@
 <!-- Please answer the following questions. Issues that don’t use this template will be closed. -->
 
 > Briefly describe the issue.
-<!-- Provide a more detailed introduction to the issue itself, and why you consider it to be a bug. -->
+<!-- Provide a more detailed introduction to the issue. -->
 
 Short description goes here.
 
@@ -28,7 +28,7 @@ Your possible fix goes here.
 3. Step 3
 
 > Tell us about the setup you experienced the bug in.
-<!-- Include as many relevant details about the environment you experienced the bug in. -->
+<!-- Include as many relevant details about your environment setup. -->
 
 * ProcessWire version:
 * (Optional) PHP version: 
