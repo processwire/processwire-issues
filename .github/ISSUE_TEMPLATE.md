@@ -1,22 +1,22 @@
 <!-- Please answer the following questions. -->
 
 > Briefly describe the issue.
-<!-- Provide a more detailed introduction to the issue. -->
 
 Short description goes here.
 
 > What did you expect to happen?
-<!-- Tell us what should happen. -->
 
 Expected behavior goes here.
 
 > What did actually happen?
-<!-- Tell us what happens instead. -->
 
 Actual behavior goes here.
 
+> Optional: Do you have screenshots/links that demonstrate the issue?
+
+Your screenshots/links go here.
+
 > Optional: Have you a suggestion for a possible fix?
-<!-- Any hint to a solution is appreciated. -->
 
 Your possible fix goes here.
 
@@ -37,10 +37,3 @@ Your possible fix goes here.
 * (Optional) PHP version: 
 * (Optional) MySQL version: 
 * (Optional) Any 3rd party modules that are installed and could be related to the issue:
-
-<!--
-* When possible please confirm the issue on a separate installation before submitting an issue report.
-* When the issue is resolved, please close it.
-* Please do not submit feature requests to this repository, instead use the requests repository: https://github.com/processwire/processwire-requests/issues
-* Please do not use this repository for ProcessWire support, instead use the support forum: https://processwire.com/talk/
--->
