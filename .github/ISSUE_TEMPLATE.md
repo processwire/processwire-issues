@@ -28,7 +28,10 @@ Your possible fix goes here.
 3. Step 3
 
 > Tell us about the setup you experienced the bug in.
-<!-- Include as many relevant details about your environment setup. -->
+<!--
+* Include as many relevant details about your environment setup.
+* Hint: Using the Tracy Debugger module (http://modules.processwire.com/modules/tracy-debugger/) makes this a breeze: https://processwire.com/talk/topic/12208-tracy-debugger/?page=28#comment-128772
+-->
 
 * ProcessWire version:
 * (Optional) PHP version: 
