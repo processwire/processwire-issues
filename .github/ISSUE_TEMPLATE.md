@@ -30,7 +30,7 @@ Your possible fix goes here.
 > Tell us about the setup you experienced the bug in.
 <!--
 * Include as many relevant details about your environment setup.
-* Hint: Using the Tracy Debugger module (http://modules.processwire.com/modules/tracy-debugger/) makes this a breeze: https://processwire.com/talk/topic/12208-tracy-debugger/?page=28#comment-128772
+* Hint: Using the Tracy Debugger module makes this a breeze: https://processwire.com/talk/topic/12208-tracy-debugger/?page=28#comment-128772 You can get it here: (http://modules.processwire.com/modules/tracy-debugger/)
 -->
 
 * ProcessWire version:
