@@ -2,9 +2,7 @@
 
 Thank you for taking the time to identify issues in ProcessWire. :+1:
 
-We manage issues from this separate repository so that we can maintain a collaborative team to assist with issue reports.
-
-The following is a set of guidelines for contributing to this repository. These are just guidelines, not rules, use your best judgment and feel free to propose changes to this document in a [pull request](https://github.com/processwire/processwire-issues/pulls).
+We manage issues from this separate repository so that we can maintain a collaborative team to assist with issue reports. The following is a set of guidelines for contributing to this repository. These are just guidelines, not rules, use your best judgment and feel free to propose changes to this document in a [pull request](https://github.com/processwire/processwire-issues/pulls).
 
 ## Code of conduct
 
