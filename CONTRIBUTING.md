@@ -6,7 +6,7 @@ We manage issues from this separate repository so that we can maintain a collabo
 
 ## Code of conduct
 
-This project adheres to the Contributor Covenant [code of conduct](https://github.com/processwire/processwire-issues/blob/master/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+This project adheres to the Contributor Covenant [code of conduct](https://github.com/processwire/processwire-issues/blob/master/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [github@processwire.com](mailto:github@processwire.com).
 
 ## Before submitting a bug report
 
