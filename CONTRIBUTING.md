@@ -16,7 +16,7 @@ There is a good chance that you don’t need to create a bug report in the first
 * Please **do not submit feature requests**, instead use the [requests repository](https://github.com/processwire/processwire-requests/issues).
 * Please **do not use this repository for ProcessWire support**, instead use the [support forum](https://processwire.com/talk/).
 * **Check the [FAQs on the forum](https://processwire.com/talk/forum/6-faqs/)** for a list of common questions and problems.
-* **Perform a [cursory search](https://github.com/issues?utf8=✓&q=is%3Aissue+user%3Aprocesswire)** to see if the problem has already been reported. If it has, add a comment to the existing issue instead of opening a new one.
+* **Perform a [cursory search](https://github.com/issues?utf8=✓&q=is%3Aissue+repo%3Aprocesswire%2Fprocesswire-issues)** to see if the problem has already been reported. If it has, add a comment to the existing issue instead of opening a new one.
 
 ## How to submit a (good) bug report
 
