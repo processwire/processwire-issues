@@ -1,5 +1,4 @@
 <!--
-
 If you want your bug report
 * to be difficult to process and understand
 * to have many unnecessary follow-up questions
@@ -11,7 +10,6 @@ If you want your bug report
 * to not have any (or very few) follow-up questions
 * to take faster to fix
 use this issue template. Thank you.
-
 -->
 
 > Briefly describe the issue.
