@@ -1,4 +1,18 @@
-<!-- Please answer the following questions. -->
+<!--
+
+If you want your bug report
+* to be difficult to process and understand
+* to have many unnecessary follow-up questions
+* to take longer to fix then necessary
+don’t use this issue template.
+
+If you want your bug report 
+* to be concise and easy to understand
+* to not have any (or very few) follow-up questions
+* to take faster to fix
+use this issue template. Thank you.
+
+-->
 
 > Briefly describe the issue.
 
