@@ -1,6 +1,6 @@
 <!--
 If you want your bug report
-* to be difficult to process and understand
+* to be more difficult to process and understand
 * to have many unnecessary follow-up questions
 * to take longer to fix then necessary
 don’t use this issue template.
@@ -12,34 +12,34 @@ If you want your bug report
 use this issue template. Thank you.
 -->
 
-> Briefly describe the issue.
+### Briefly describe the issue.
 
 Short description goes here.
 
-> What did you expect to happen?
+### What did you expect to happen?
 
 Expected behavior goes here.
 
-> What did actually happen?
+### What did actually happen?
 
 Actual behavior goes here.
 
-> Optional: Do you have screenshots/links that demonstrate the issue?
+### Optional: Do you have screenshots/links that demonstrate the issue?
 
 Your screenshots/links go here.
 
-> Optional: Have you a suggestion for a possible fix?
+### Optional: Have you a suggestion for a possible fix?
 
 Your possible fix goes here.
 
-> What are the steps to reproduce the issue?
+### What are the steps to reproduce the issue?
 <!-- Provide an unambiguous set of steps to reproduce the issue. -->
 
 1. Step 1
 2. Step 2
 3. Step 3
 
-> Tell us about the setup you experienced the bug in.
+### Tell us about the setup you experienced the bug in.
 <!--
 * Include as many relevant details about your environment setup.
 * Hint: Using the Tracy Debugger module makes this a breeze: https://processwire.com/blog/posts/introducing-tracy-debugger/#versions-list
